@@ -1,4 +1,4 @@
-### Per 1 April 2023 is de doorontwikkeling van de VERA Standaard een taak van de Aedes Datastandaarden Organisatie geworden.
+### Per 1 April 2023 is de doorontwikkeling van de VERA Standaard een taak van de Aedes Datastandaarden Organisatie.
 <img align="right" width="300" src="https://github.com/Aedes-datastandaarden/.github/blob/main/1-0.png">
 
 Via Github publiceren we de [VERA koppelingen](https://github.com/Aedes-datastandaarden/vera-openapi) en de [VERA Referentiedata](https://github.com/Aedes-datastandaarden/vera-referentiedata). <br />
