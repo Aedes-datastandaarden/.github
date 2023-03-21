@@ -2,7 +2,7 @@
 <img align="right" width="300" src="https://github.com/Aedes-datastandaarden/.github/blob/main/1-0.png">
 
 Via Github publiceren we de [VERA koppelingen](https://github.com/Aedes-datastandaarden/vera-openapi) en de [VERA Referentiedata](https://github.com/Aedes-datastandaarden/vera-referentiedata). <br />
-Wij zijn heel blij met feedback! Feedback kun je per repository aangeven via de Issues knop in het menu.
+Wij zijn heel blij met feedback! Feedback kun je per repository aangeven via de *Issues* knop in het menu.
 
 De uitwerking van de VERA Architectuur staat op onze [Wiki](https://cora.wikixl.nl/index.php/VERA_Standaard)
 <!--
