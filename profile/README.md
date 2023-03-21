@@ -1,5 +1,5 @@
 # Per 1 April 2023 is de doorontwikkeling van de VERA Standaard onderdeel van de Aedes Datastandaarden Organisatie geworden. 
-Via Github publiceren we de VERA koppelingen en de VERA Referentiedata. Feedback kun je per repository aangeven via de Issues knop in het menu.
+Via Github publiceren we de [VERA koppelingen](https://github.com/Aedes-datastandaarden/vera-openapi) en de VERA Referentiedata. Feedback kun je per repository aangeven via de Issues knop in het menu.
 De uitwerking van de VERA Architectuur staat op onze Wiki: https://cora.wikixl.nl/index.php/VERA_Standaard
 
 <!--
