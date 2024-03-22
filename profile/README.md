@@ -4,7 +4,7 @@
 Via Github publiceren we de [VERA-koppelingen](https://github.com/Aedes-datastandaarden/vera-openapi), [VERA-referentiedata](https://github.com/Aedes-datastandaarden/vera-referentiedata) en de [Aedes-ILS](https://github.com/Aedes-datastandaarden/Aedes-ILS). <br />
 Wij zijn heel blij met feedback! Feedback kun je per repository aangeven via de *Issues* knop in het menu.
 
-De uitwerking van de VERA Architectuur staat op onze [Wiki](https://cora.wikixl.nl/index.php/VERA_Standaard)
+De uitwerking van de VERA Architectuur staat op [CORA en VERA online](https://coraveraonline.nl/index.php/VERA_Standaard)
 <!--
 
 **Here are some ideas to get you started:**
