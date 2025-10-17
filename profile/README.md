@@ -1,5 +1,3 @@
-<img align="right" width="300" src="https://github.com/Aedes-datastandaarden/.github/blob/main/350px-Logo_Stichting_VERA.png">
-
 Via Github publiceren we de [VERA-koppelingen](https://github.com/Aedes-datastandaarden/vera-openapi), [VERA-referentiedata](https://github.com/Aedes-datastandaarden/vera-referentiedata) en de [Aedes-ILS](https://github.com/Aedes-datastandaarden/Aedes-ILS). <br />
 Wij zijn heel blij met feedback! Feedback kun je per repository aangeven via de *Issues* knop in het menu.
 
